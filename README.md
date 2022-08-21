@@ -1,4 +1,4 @@
-## Hola! 👋 Me llamo Felipe y soy desarrollador FullStack
+# Hola! 👋 Me llamo Felipe y soy desarrollador FullStack
 **Conocimientos:** HTML5, CSS, Javascript (* *React, NodeJs* *), PHP, Pawn, SQL, Python
 
 <!--
