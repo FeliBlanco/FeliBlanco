@@ -1,4 +1,5 @@
 ### Hola! 👋 me llamo Felipe y soy desarrollador FullStack
+## Conocimientos: HTML5, CSS, Javascript (React, NodeJs), PHP, Pawn, MySQL, Python
 
 <!--
 **FeliBlanco/FeliBlanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
