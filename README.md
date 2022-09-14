@@ -1,5 +1,11 @@
-# Hola! 👋 Me llamo Felipe y soy desarrollador FullStack
-**Conocimientos:** HTML5, CSS, Javascript (* *React, NodeJs* *), PHP, Pawn, SQL, Python
+*Hola! 👋 Me llamo Felipe*
+
+Y soy desarrollador FullStack
+
+
+**Conocimientos:** HTML5, CSS, Javascript (**React, NodeJS**), PHP, Pawn, SQL, Python
+
+🔭 I’m currently working on https://getyn.com.ar - https://omegazone.net
 
 <!--
 **FeliBlanco/FeliBlanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
