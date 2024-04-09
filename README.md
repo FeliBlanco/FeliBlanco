@@ -3,7 +3,7 @@
 Y soy desarrollador FullStack
 
 
-**Conocimientos:** HTML5, CSS, Javascript (**React, NodeJS**), PHP, Pawn, MySQL, Python
+**Conocimientos:** HTML5, CSS, Javascript (**React JS, React Native, NodeJS, Express, Nest**), PHP, Pawn, MySQL, Python, AWS
 
 🔭 I’m currently working on https://getyn.com.ar - https://omegazone.net
 
