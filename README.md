@@ -1,23 +1,51 @@
-*Hola! 👋 Me llamo Felipe*
+# 👋 Hola, soy **Felipe Blanco**
 
-Y soy desarrollador FullStack
+💻 **Desarrollador Full Stack** con experiencia en el diseño y desarrollo de aplicaciones web y móviles.
+Me enfoco en construir soluciones escalables, seguras y de alto rendimiento, combinando buenas prácticas y tecnologías modernas.
 
+---
 
-**Conocimientos:** HTML5, CSS, Javascript (**React JS, React Native, NodeJS, Express, Nest**), PHP, Pawn, MySQL, Python, AWS
+### 🧠 **Tecnologías principales**
 
-🔭 I’m currently working on https://getyn.com.ar - https://omegazone.net
+#### 🖥️ Frontend
 
-<!--
-**FeliBlanco/FeliBlanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
 
-Here are some ideas to get you started:
+#### ⚙️ Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat\&logo=express\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat\&logo=nestjs\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+![Pawn](https://img.shields.io/badge/Pawn-FF9800?style=flat\&logoColor=white)
+
+#### 🗄️ Bases de datos
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+
+#### ☁️ Infraestructura y otros
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazon-aws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+
+---
+
+### 🚀 **Sobre mí**
+
+Apasionado por la tecnología, la automatización y la mejora continua.
+Me gusta diseñar arquitecturas eficientes y participar en todas las etapas del desarrollo: desde la idea inicial hasta la implementación en producción.
+
+---
+
+📫 **Contacto:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/Feli-Blanco)
+✉️ [blancofeli9@gmail.com](mailto:blancofeli9@gmail.com)
