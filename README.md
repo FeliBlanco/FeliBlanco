@@ -1,7 +1,6 @@
 # 👋 Hola, soy **Felipe Blanco**
 
-💻 **Desarrollador Full Stack** con experiencia en el diseño y desarrollo de aplicaciones web y móviles.
-Me enfoco en construir soluciones escalables, seguras y de alto rendimiento, combinando buenas prácticas y tecnologías modernas.
+Full Stack Developer con +5 años de experiencia en desarrollo de software, trabajando en aplicaciones web, mobile y sistemas backend. Experiencia desarrollando productos desde cero, diseñando arquitecturas, trabajando con microservicios y sistemas en tiempo real, además de infraestructura y despliegue en producción. Experiencia liderando equipos de desarrollo, realizando code reviews, tomando decisiones técnicas y trabajando directamente con clientes.
 
 ---
 
